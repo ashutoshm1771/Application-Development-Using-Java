@@ -1,3 +1,5 @@
+// Author : Ashutosh Mishra
+
 import java.applet.Applet;  
 import java.awt.*;  
  /*<applet code="graphics" width="300" height="300">  
