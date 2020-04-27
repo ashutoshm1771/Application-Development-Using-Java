@@ -1,3 +1,5 @@
+// Author : Ashutosh Mishra
+
 import java.applet.*;
 import java.awt.*;
 public class applet1 extends Applet
