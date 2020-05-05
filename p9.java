@@ -1,3 +1,5 @@
+// Author : Ashutosh Mishra
+
 /*<applet code=p9 width=300 height=300></applet>*/
 import java.awt.*;
 import java.applet.*;
