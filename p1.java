@@ -1,3 +1,5 @@
+// Author : Ashutosh Mishra
+
 import java.awt.*;
 import java.applet.*;
 /*<applet code="p1" width=400 height=200> <param name="string" value="applet"> </applet>*/
