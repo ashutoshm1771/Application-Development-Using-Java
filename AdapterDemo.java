@@ -26,6 +26,7 @@ public class AdapterDemo extends Frame
 		obj.setVisible(true);
 	}
 }
+
 class MyMouseAdapter extends MouseAdapter
 {
 	AdapterDemo ad;
